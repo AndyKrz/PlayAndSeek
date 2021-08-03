@@ -1,6 +1,6 @@
 # PlayAndSeek Application Spring Boot version 
 
-![Spring Boot version of the Play And Seek](https://github.com/AndyKrz/PlayAndSeek/blob/main/PlayAndSeek.jpg)
+![Spring Boot version of the Play And Seek](https://github.com/AndyKrz/PlayAndSeek/blob/main/PlayAndSeekView.jpg)
 
 PlayAndSeek - website which is a social network for people interested in different kind of sports. 
 You can create a profile which allows you to connect to whole community. You can invite friends and annonce a game. You can chat with whoever you want and arrange a time together. 
