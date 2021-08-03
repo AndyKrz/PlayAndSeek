@@ -1,5 +1,7 @@
 # PlayAndSeek Application Spring Boot version 
 
+![Spring Boot version of the Play And Seek](https://github.com/AndyKrz/PlayAndSeek/blob/main/PlayAndSeek.jpg)
+
 PlayAndSeek - website which is a social network for people interested in different kind of sports. 
 You can create a profile which allows you to connect to whole community. You can invite friends and annonce a game. You can chat with whoever you want and arrange a time together. 
 Application is based in Java programming language. I used Spring Boot as a base of the project, adding proper security and configuration. For a database I used a H2 framework, where I used already made SQL statements. For layout on internet browser I used basic HTML with Bootstrap and Thymeleaf to extend fresh style of web page. 
